@@ -1,0 +1,12 @@
+{
+  "targetClientVersion": 1,
+  "targetGameFilesVersion": 1,
+  "urlClient": "https://",
+  "urlFiles": "https://",
+  "urlFilesUpdate": "https://",
+  "urlForum": "https://",
+  "urlDonate": "https://",
+  "urlVKontakte": "https://vk.com/",
+  "urlDiscord": "https://discord.gg/",
+  "urlYoutube": "https://youtube.com/"
+}
