@@ -1,6 +1,6 @@
 {
-  "targetClientVersion": 1,
-  "targetGameFilesVersion": 1,
+  "targetClientVersion": 0,
+  "targetGameFilesVersion": 0,
   "urlClient": "https://",
   "urlFiles": "https://",
   "urlFilesUpdate": "https://",
