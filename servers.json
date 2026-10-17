@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "HardLife RP | Server 1",
+    "ip": "127.0.0.1",
+    "port": 7777,
+    "online": 150,
+    "maxOnline": 1000,
+    "isTest": false
+  }
+]
