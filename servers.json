@@ -7,5 +7,14 @@
     "online": 150,
     "maxOnline": 1000,
     "isTest": false
+  },
+  {
+    "id": 2,
+    "name": "HardLife RP | Test",
+    "ip": "127.0.0.1",
+    "port": 7777,
+    "online": 150,
+    "maxOnline": 1000,
+    "isTest": false
   }
 ]
