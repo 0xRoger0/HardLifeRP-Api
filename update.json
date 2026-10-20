@@ -3,6 +3,6 @@
     "game_version": "17.0",
     "beta_version": "17.1",
     "game_url": "",
-    "data_list_url": "https://raw.githubusercontent.com/0xRoger0/HardLifeRP-Api/main/data/list.json",
-    "data_list2_url": "https://raw.githubusercontent.com/0xRoger0/HardLifeRP-Api/main/data/list2.json"
+    "lite_list_url": "https://raw.githubusercontent.com/0xRoger0/HardLifeRP-Api/main/data/list.json",
+    "samp_list_url": "https://raw.githubusercontent.com/0xRoger0/HardLifeRP-Api/main/data/list2.json",
 }
